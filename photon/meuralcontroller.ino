@@ -4,7 +4,6 @@
 
 #include <string.h>
 #include "HttpClient/HttpClient.h"
-#include "TimeAlarms/TimeAlarms.h"
 
 /**
 * Declaring the variables.
