@@ -1,0 +1,11 @@
+left
+previous
+last
+right
+next
+up
+down
+info
+details
+artist name
+tell me more

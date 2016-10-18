@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent": "MeuralNavigationIntent",
+	  "slots": [
+        {
+          "name": "NAVIGATE",
+          "type": "NAVIGATE_VALUES"
+        }
+      ]
+    },
+    {
+      "intent": "MeuralPreviousIntent"
+    },
+    {
+      "intent": "MeuralInfoIntent"
+    },
+    {
+      "intent": "MeuralGalleryIntent",
+	  "slots": [
+        {
+          "name": "GALLERY",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+MeuralNavigationIntent navigate {NAVIGATE}
+  
+MeuralNavigationIntent go to {NAVIGATE}
+MeuralNavigationIntent go to {NAVIGATE} photo
+MeuralNavigationIntent go to {NAVIGATE} image
+MeuralNavigationIntent go to {NAVIGATE} pic
+MeuralNavigationIntent go to {NAVIGATE} picture
+MeuralNavigationIntent go to {NAVIGATE} slide
+MeuralNavigationIntent go to {NAVIGATE} painting
+MeuralNavigationIntent go to {NAVIGATE} artwork
+
+MeuralNavigationIntent please display Picasso's Guernica
+MeuralNavigationIntent show me Picasso's Guernica
+MeuralNavigationIntent show me my schedule
+MeuralNavigationIntent what's the weather today
+
+MeuralNavigationIntent show {NAVIGATE}
+MeuralNavigationIntent show {NAVIGATE} photo
+MeuralNavigationIntent show {NAVIGATE} image
+MeuralNavigationIntent show {NAVIGATE} pic
+MeuralNavigationIntent show {NAVIGATE} picture
+MeuralNavigationIntent show {NAVIGATE} slide
+MeuralNavigationIntent show {NAVIGATE} painting
+MeuralNavigationIntent show {NAVIGATE} artwork
+
+MeuralGalleryIntent go to gallery {GALLERY}
+MeuralGalleryIntent show gallery {GALLERY}
