@@ -23,6 +23,4 @@ The demo uses a particle.io Photon
 
 
 ##### Disclaimer #####
-The code facilitates explaining a vision and therefore isn't dynamic but follows a script. However, the code is just to show how this concept could be brought into production.
-
 For the Art savvy, I apologise in advance for cropping Picasso's Guernica.
